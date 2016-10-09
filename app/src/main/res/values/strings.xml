@@ -1,0 +1,19 @@
+<!--
+  ~ Copyright (c) 2016. Richard P. Parkins, M. A.
+  -->
+
+<resources>
+    <string name="app_name">PowerTest</string>
+    <string name="charging_AC">Being charged by fast USB charger</string>
+    <string name="charging_USB">Being charged by dumb USB charger</string>
+    <string name="charging_wireless">Being charged by wireless charger</string>
+    <string name="charging_none">Not being charged</string>
+    <string name="charging_slave">Being charged by USB host (e. g. computer)
+    </string>
+    <string name="USB_host">Acting as USB host</string>
+    <string name="docked_car">Docked in a car</string>
+    <string name="not_docked">Not docked</string>
+    <string name="docked_desk">Docked in a desktop dock</string>
+    <string name="docked_le_desk">Docked in a low-end desktop dock</string>
+    <string name="docked_he_desk">Docked in a high-end desktop dock</string>
+</resources>
